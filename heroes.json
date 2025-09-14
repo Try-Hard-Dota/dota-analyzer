@@ -1,0 +1,14 @@
+{
+  "heroes": [
+    {"name": "Axe", "role": "Tank"},
+    {"name": "Crystal Maiden", "role": "Support"},
+    {"name": "Juggernaut", "role": "Carry"},
+    {"name": "Invoker", "role": "Mid"},
+    {"name": "Lion", "role": "Support"}
+  ]
+}
+git config --global user.name "Try-Hard-Dota"
+git config --global user.email "prosto17022002@mail.ru"
+
+
+
