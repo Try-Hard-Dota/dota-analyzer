@@ -1,9 +1,7 @@
 {
   "heroes": [
-    {"name": "Axe", "role": "Tank"},
-    {"name": "Crystal Maiden", "role": "Support"},
-    {"name": "Juggernaut", "role": "Carry"},
-    {"name": "Invoker", "role": "Mid"},
-    {"name": "Lion", "role": "Support"}
+    {"name": "Axe", "file": "hero_data/axe.json"},
+    {"name": "Crystal Maiden", "file": "hero_data/crystal_maiden.json"},
+    {"name": "Juggernaut", "file": "hero_data/juggernaut.json"}
   ]
 }
