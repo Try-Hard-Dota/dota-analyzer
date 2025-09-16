@@ -1,0 +1,21 @@
+{
+  "name": "Abaddon",
+  "role": "Tank",
+  "attribute": "universal"
+  "strength": 10,
+  "attack_type": "ranged",
+  "roles": [2, 3, 4, 5],
+  "power_timings": {
+    "early": 5,
+    "mid": 6,
+    "late": 8
+  },
+  "attributes": {
+    "magic_damage_dealer": 9,
+    "mana_dependent": 8,
+    "squishy": 8,
+    "lane_dominator": 7,
+    "silence": 6,
+    "slow": 5
+  }
+}

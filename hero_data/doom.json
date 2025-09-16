@@ -1,0 +1,8 @@
+{
+  "name": "Axe",
+  "role": "Tank",
+  "strength": 10,
+  "agility": 5,
+  "intelligence": 3,
+  "abilities": ["Berserker's Call", "Battle Hunger", "Counter Helix"]
+}
